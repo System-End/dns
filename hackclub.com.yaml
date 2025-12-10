@@ -1261,6 +1261,10 @@ cinema:
 - ttl: 300
   type: CNAME
   value: dandililacs.github.io.
+clubs:
+- ttl: 300
+  type: CNAME
+  value: hackclub.github.io.
 cockpit:
 - octodns:
     cloudflare:
